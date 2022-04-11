@@ -17,7 +17,7 @@ namespace CinemaOnline.Controllers
 {
     public class AccountController : Controller
     {
-        // GET: Account lolo
+        // GET: Account lolo new
         public ActionResult Index()
         {
             if (!CookiesManage.Logined())
