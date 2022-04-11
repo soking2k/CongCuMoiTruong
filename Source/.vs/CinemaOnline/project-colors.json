@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "98a12beb-3ea8-448a-be64-f67242449103": {
+      "ProjectGuid": "98a12beb-3ea8-448a-be64-f67242449103",
+      "DisplayName": "BELibrary",
+      "ColorIndex": 0
+    },
+    "4d34e5c8-7504-40dd-8ee1-71cfc88cd5c2": {
+      "ProjectGuid": "4d34e5c8-7504-40dd-8ee1-71cfc88cd5c2",
+      "DisplayName": "CinemaOnline",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
