@@ -14,7 +14,7 @@ namespace CinemaOnline.Areas.Admin.Controllers
     {
         private readonly string KeyElement = "Đặt vé";
 
-        // GET: Admin/Gallery
+        // GET: Admin/Gallery update
         public ActionResult Index(Guid? filmId)
         {
             ViewBag.Feature = "Danh sách";
