@@ -156,20 +156,9 @@
                                         <a class="btn btn-mint btn-icon"><i class="fa fa-cloud-upload icon-lg"></i></a>
                                     </span>
                                 </div>
-                                @if (ViewBag.isEdit && Model.TrailerLink != "" && Model.TrailerLink != null)
-                                {
-                                    <video controls style="width:100%;padding-top: 10px;">
-                                        <source id="urlVideo" src="@Model.TrailerLink" type="video/mp4">
-                                        Your browser does not support HTML5 video.
-                                    </video>
-                                }
-                                else
-                                {
-                                    <video style="width:100%;padding-top: 10px;" controls class="display-none" id="videoTag">
-                                        <source id="urlVideo" src="#" type="video/mp4">
-                                        Your browser does not support HTML5 video.
-                                    </video>
-                                }
+                              
+                               
+                             
                             </div>
                         </div>
                     </div>
